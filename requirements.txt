@@ -1,0 +1,4 @@
+hashlib
+pyttsx3
+email-to
+smtplib
